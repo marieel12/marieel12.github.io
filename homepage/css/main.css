@@ -1,0 +1,16 @@
+img{
+    width: 200px;
+    float: right;
+}
+
+header, footer {
+    background-color: darkcyan; 
+    padding: 17px;
+    border-radius: 20px;
+}
+
+body {
+    width: 65%;
+    margin: auto;
+    text-align: center;
+}
